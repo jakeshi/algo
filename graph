@@ -1,0 +1,8 @@
+definition: a set of vertices connected pairwise by edges
+path: sequence of vertices connected by edges
+cycle: path where first and last vertices are the same
+Eulur tour: a path each edge exactly once
+
+problem: 
+1. is there a path
+2. shortest path?
