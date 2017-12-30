@@ -1,2 +1,5 @@
-# algo
-some notes on algo
+# Algorithm
+Some notes on algorithm
+
+1. Use Stack
+
