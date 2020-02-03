@@ -4,8 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        stack = []
-        ret = 0
+        stack = [] # list as a stack
+        ret = 0 # return value
         last = -1
         
         for i in range(len(s)):
